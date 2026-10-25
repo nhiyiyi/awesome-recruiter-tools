@@ -77,6 +77,7 @@ Tools that use AI to automate sourcing, screening, scheduling, and candidate eng
 - **[Ollama](https://ollama.ai)** — Run LLMs locally for candidate screening, resume parsing, and outreach drafting. Free and open source.
 - **[LangChain](https://langchain.com)** — Framework for building AI-powered recruiting workflows. Free open-source.
 - **[PromptLayer](https://promptlayer.com)** — Log, search, and evaluate AI prompts for recruiting. Free tier available.
+- **[Flowmingo](https://flowmingo.ai)** — Free AI Interviewer and screening platform for recruiters. The AI drafts questions and scoring criteria from the job description, candidates answer in their own time on a phone or a laptop, and each interview returns the recording, transcript and scores with reasons. Free plan, no credit card.
 
 ## Candidate Sourcing
 
